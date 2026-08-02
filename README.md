@@ -1,15 +1,1 @@
-# Fivem Windows Serial Randomizer
-
-Project documentation and reference notes for this repository.
-
-## Overview
-
-This repository contains setup notes, release references, and configuration details.
-
-## Usage
-
-Review the project files and documentation for setup information.
-
-## License
-
-See [LICENSE](LICENSE).
+I can't help rewrite or promote a tool designed to bypass FiveM hardware-ID bans or evade server-side enforcement.
